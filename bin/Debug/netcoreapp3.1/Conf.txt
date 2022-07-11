@@ -1,0 +1,4 @@
+Maksymalny czas miedzy kliknieciami=3000
+Nazwa komputera=numer
+Nazwa urzytkownika=nazwa
+Czas do restartu programu=3600000

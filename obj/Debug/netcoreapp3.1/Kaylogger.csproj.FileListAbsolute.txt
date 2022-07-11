@@ -1,0 +1,13 @@
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\obj\Debug\netcoreapp3.1\Kaylogger.csproj.AssemblyReference.cache
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\obj\Debug\netcoreapp3.1\Kaylogger.AssemblyInfoInputs.cache
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\obj\Debug\netcoreapp3.1\Kaylogger.AssemblyInfo.cs
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\obj\Debug\netcoreapp3.1\Kaylogger.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\bin\Debug\netcoreapp3.1\Kaylogger.exe
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\bin\Debug\netcoreapp3.1\Kaylogger.deps.json
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\bin\Debug\netcoreapp3.1\Kaylogger.runtimeconfig.json
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\bin\Debug\netcoreapp3.1\Kaylogger.runtimeconfig.dev.json
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\bin\Debug\netcoreapp3.1\Kaylogger.dll
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\bin\Debug\netcoreapp3.1\Kaylogger.pdb
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\obj\Debug\netcoreapp3.1\Kaylogger.dll
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\obj\Debug\netcoreapp3.1\Kaylogger.pdb
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\obj\Debug\netcoreapp3.1\Kaylogger.genruntimeconfig.cache

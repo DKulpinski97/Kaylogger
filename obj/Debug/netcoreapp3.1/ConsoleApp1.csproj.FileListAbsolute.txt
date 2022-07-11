@@ -1,0 +1,4 @@
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Dawid\OneDrive\Pulpit\Programy\Kaylogger\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
